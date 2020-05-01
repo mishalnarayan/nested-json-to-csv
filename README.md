@@ -5,4 +5,5 @@ This scripts flattens json(either deeply nested or simple) to csv. Silient featu
 3. Written in pure python<br>
 4. Reliable
 5. Can merge extremely large json parsed data together
+6. Works with multiple json files at single time
 
